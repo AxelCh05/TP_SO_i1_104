@@ -1,5 +1,28 @@
+Alumnos que participaron de la interacción: 
+
+Nombre: Axel
+Apellido: Choqueticlla
+
+Nombre: Federico
+Apellido: Frediani Baldi
+
+Nombre: Karina
+Apellido: Ferreyra
+
+
 a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+  Rta: Sí, como ALFA, puedo ver los datos que BETA y GAMMA cargaron en el repositorio. 
+
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+  Rta: Sí, al añadir a BETA y a GAMMA como colaboradores del repositorio, tienen acceso a las modificaciones
+       realizadas, incluido los nuevos archivos. 
+
 c-¿Si BETA agrega un archivo los demás integrantes lo ven?
 d-¿De qué forma se comunicaron ustedes?
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+
+
+
+
+
+
