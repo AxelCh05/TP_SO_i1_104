@@ -18,8 +18,10 @@ b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
        realizadas, incluido los nuevos archivos. 
 
 c-¿Si BETA agrega un archivo los demás integrantes lo ven?
-  
+	Rta: Si, todo archivo modificado o agregado por BETA es visible tanto para ALFA como para GAMMA.
+
 d-¿De qué forma se comunicaron ustedes?
+	Rta: Dentro del apartado de proyectos, ALFA creo un proyecto del cual BETA y GAMMA somos colaboradores. Por lo tanto, podemos modificarlo para ir agregando las tareas que nos quedan por hacer y marcar las ya hechas.
 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 
